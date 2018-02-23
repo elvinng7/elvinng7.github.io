@@ -1,0 +1,48 @@
+#index {
+    background-color: antiquewhite;
+   background-image: url("http://www.dragons-lair-project.com/games/pages/images/dl/pic18.jpg");
+}
+#b {            
+    font-size: 40px;
+    color: blue;
+    background-color: gold;
+    text-align: center;
+        } 
+
+h1 {
+    font-family: fantasy; 
+    text-align: center;
+    }
+        
+h2 {
+    font-family: fantasy;
+    text-align: center;
+    } 
+            
+h3 {
+    font-family: fantasy;
+    text-align: center;
+    } 
+
+h4 {
+    font-family: fantasy;
+    text-align: center;
+    } 
+
+h5 {
+    font-family: fantasy;
+    text-align: center;
+    } 
+
+h6 {
+    font-family: fantasy;
+    text-align: center;
+    } 
+
+button {
+    font-size: 15px;
+    color: black;
+    background-color: orange;
+    text-align: center;
+    font-family: fantasy;
+}
